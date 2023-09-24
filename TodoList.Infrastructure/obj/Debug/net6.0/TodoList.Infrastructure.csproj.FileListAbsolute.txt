@@ -1,0 +1,15 @@
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/bin/Debug/net6.0/TodoList.Infrastructure.deps.json
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/bin/Debug/net6.0/TodoList.Infrastructure.dll
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/bin/Debug/net6.0/TodoList.Infrastructure.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/bin/Debug/net6.0/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/bin/Debug/net6.0/TodoList.Services.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.csproj.AssemblyReference.cache
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.AssemblyInfoInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.AssemblyInfo.cs
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.csproj.CopyComplete
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.dll
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/refint/TodoList.Infrastructure.dll
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/TodoList.Infrastructure.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Infrastructure/obj/Debug/net6.0/ref/TodoList.Infrastructure.dll

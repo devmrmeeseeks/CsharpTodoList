@@ -1,0 +1,12 @@
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.csproj.AssemblyReference.cache
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.AssemblyInfoInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.AssemblyInfo.cs
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.csproj.CoreCompileInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Data/bin/Debug/net6.0/TodoList.Data.deps.json
+/Users/rguzman/Projects/TodoList/TodoList.Data/bin/Debug/net6.0/TodoList.Data.dll
+/Users/rguzman/Projects/TodoList/TodoList.Data/bin/Debug/net6.0/TodoList.Data.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.dll
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/refint/TodoList.Data.dll
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/TodoList.Data.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Data/obj/Debug/net6.0/ref/TodoList.Data.dll

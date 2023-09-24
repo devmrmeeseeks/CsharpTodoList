@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5F5BB165-F2F3-4F77-A58C-E62B22158564}|Default">
+  <MonoDevelop.Ide.ItemProperties.TodoList PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>TodoList.Services/TodoList.Domain.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoList.Infrastructure/Configurations/TodoListConfiguration.cs">
+    <Files>
+      <File FileName="TodoList.Domain/Entities/TodoListData.cs" Line="1" Column="1" />
+      <File FileName="TodoList.Infrastructure/Configurations/TodoListConfiguration.cs" Line="1" Column="1" />
+      <File FileName="TodoList.Infrastructure/Configurations/InfrastructureModule.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoList" expanded="True">
+            <Node name="TodoList" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="TodoList.Application" expanded="True">
+              <Node name="Dtos" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="TodoList.Domain" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="TodoList.Infrastructure" expanded="True">
+              <Node name="Configurations" expanded="True">
+                <Node name="InfrastructureModule.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

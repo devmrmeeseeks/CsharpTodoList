@@ -1,0 +1,12 @@
+/Users/rguzman/Projects/TodoList/TodoList.Domain/bin/Debug/net6.0/TodoList.Services.deps.json
+/Users/rguzman/Projects/TodoList/TodoList.Domain/bin/Debug/net6.0/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Domain/bin/Debug/net6.0/TodoList.Services.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Domain.csproj.AssemblyReference.cache
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Domain.AssemblyInfoInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Domain.AssemblyInfo.cs
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Domain.csproj.CoreCompileInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/refint/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/TodoList.Services.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Domain/obj/Debug/net6.0/ref/TodoList.Services.dll

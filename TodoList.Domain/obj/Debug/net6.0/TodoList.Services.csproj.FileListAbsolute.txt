@@ -1,0 +1,17 @@
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Services.deps.json
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Services.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Data.dll
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Models.dll
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Data.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Services/bin/Debug/net6.0/TodoList.Models.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.csproj.AssemblyReference.cache
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.AssemblyInfoInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.AssemblyInfo.cs
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.csproj.CoreCompileInputs.cache
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.csproj.CopyComplete
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/refint/TodoList.Services.dll
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/TodoList.Services.pdb
+/Users/rguzman/Projects/TodoList/TodoList.Services/obj/Debug/net6.0/ref/TodoList.Services.dll
